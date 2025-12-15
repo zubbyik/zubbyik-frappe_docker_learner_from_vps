@@ -8,7 +8,7 @@ data/
 backups/
 
 # Keep structure
-!sites/.gitkeep
+#!sites/.gitkeep
 !apps/.gitkeep
 !data/.gitkeep
 
@@ -142,7 +142,7 @@ venv.bak/
 .ropeproject
 
 # mkdocs documentation
-/site
+#/site
 
 # mypy
 .mypy_cache/
